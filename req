@@ -1,0 +1,6 @@
+google-meridian>=1.4.0
+ipykernel>=7.1.0
+nevergrad>=1.0.12
+pymc-marketing>=0.17.1
+pyreadr>=0.5.3
+gspread>=6.2.0
